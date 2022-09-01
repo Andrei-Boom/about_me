@@ -1,7 +1,6 @@
 # Немного о себе
 
-![foto1](https://file%2B.vscode-resource.vscode-cdn.net/Users/andrei_i/Python/%D0%94%D0%97_git/git-3/IMG_8513.jpeg?version%3D1662042924396)
-
+![foto](IMG_8513.jpeg)
 
 Меня зовут Андрей. 
 
